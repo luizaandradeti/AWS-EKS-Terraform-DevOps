@@ -8,8 +8,7 @@ Project made based on AWS documentation:
 
 | Nome | Versão |
 |------|---------|
-| <a name="requirement_aws"></a> [aws](#requirement\_aws) | > 4.47.0 |
- |
+| <a name="requirement_aws"></a> [aws](#requirement\_aws) | > 4.40.0 ||
 | <a name="requirement_kubernetes"></a> [kubernetes](#requirement\_kubernetes) | > 2.10.0 |
 
 
@@ -28,3 +27,4 @@ terraform apply
 
 ## Example 
 ![App Screenshot](images/1vpc.png)  
+
