@@ -12,11 +12,11 @@ Project made based on AWS documentation:
 | <a name="requirement_kubernetes"></a> [kubernetes](#requirement\_kubernetes) | > 2.10.0 |
 
 
-
 | Location   | AWS Region | IP CIDR       | Address Range               |
 |------------|------------|---------------|-----------------------------|
-| Ohio       | us-east-2  | 10.0.0.0/10   | 10.0.0.1 - 10.63.255.255    | |
+| Ohio       | us-east-2  | 10.0.0.0/16   | 10.0.0.1 - 10.0.255.254    | |
 
+[Ip calculator](https://www.iptp.net/pt_PT/iptp-tools/ip-calculator/)
 
 ````
 terraform init
