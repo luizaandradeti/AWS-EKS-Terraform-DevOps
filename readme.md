@@ -1,4 +1,24 @@
-# 1 Strategy AWS VPC 
+  
+# EKS with Terraform
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/luiza-andrade-ti/)  
+
+[![git](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizaandradeti/) 
+ 
+
+## Tech Stack  
+**Console AWS:** Create an AWS account
+
+**CLI access:** Generate CLI access credentials
+
+- AWS CLI https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+- TERRAFORM https://developer.hashicorp.com/terraform/install
+- VISUAL STUDIO CODE https://code.visualstudio.com/download
+- GITHUB: https://git-scm.com/downloads
+
+## Strategy AWS VPC 
 
 Project made based on AWS documentation:
 
@@ -16,7 +36,7 @@ Project made based on AWS documentation:
 |------------|------------|---------------|-----------------------------|
 | Ohio       | us-east-2  | 10.0.0.0/16   | 10.0.0.1 - 10.0.255.254    | |
 
-[IP calculator](https://www.iptp.net/pt_PT/iptp-tools/ip-calculator/)
+[Ip calculator](https://www.iptp.net/pt_PT/iptp-tools/ip-calculator/)
 
 ````
 terraform init
