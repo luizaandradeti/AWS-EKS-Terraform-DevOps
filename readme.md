@@ -16,7 +16,7 @@ Project made based on AWS documentation:
 |------------|------------|---------------|-----------------------------|
 | Ohio       | us-east-2  | 10.0.0.0/16   | 10.0.0.1 - 10.0.255.254    | |
 
-[Ip calculator](https://www.iptp.net/pt_PT/iptp-tools/ip-calculator/)
+[IP calculator](https://www.iptp.net/pt_PT/iptp-tools/ip-calculator/)
 
 ````
 terraform init
